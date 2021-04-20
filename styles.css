@@ -1,0 +1,49 @@
+
+
+.ff {
+    font-family: "Comic Sans";
+    font-size: 17px;
+    text-align: left;
+    color: blue;
+    margin: 16px;
+    border: 16px inset red;
+    padding: 12px;
+}
+
+.C B aflfredo{
+    height:120px;
+    width: 50px;
+font-size: 20px;
+}
+
+.sports {
+    font-family: "Comic Sans";
+    font-size: 17px;
+    text-align: left;
+    color: red;
+    margin: 15px;
+    border: 17px ridge yellow;
+    padding: 10px;
+}
+
+.baseball{
+height:190px;
+width: 90%;
+font-size: 20px;
+}
+
+.fd {
+    font-family: "Comic Sans";
+    font-size: 17px;
+    text-align: left;
+    color: maroon;
+    margin: 10px;
+    border: 15px dotted orange;
+    padding: 10px;
+}
+
+.palmeraninan{
+height:140px;
+width: 150px;
+font-size: 20px;
+}
